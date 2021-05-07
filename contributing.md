@@ -22,6 +22,7 @@ Ensure your pull request adheres to the following guidelines:
 - Link to the GitHub repo if possible, not a package manager or its website.
 - The pull request should have a useful title and explain why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- Submissions may not violate Twitch's Terms and Conditions.
 
 Thank you for your suggestion!
 
