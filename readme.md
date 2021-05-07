@@ -17,11 +17,11 @@
 - [Getting help](#getting-help)
 - [Documentation](#documentation)
 - [Toolchain](#toolchain)
-- [Libraries](#libraries 
+- [Libraries](#libraries) 
   - [Angelscript](#angelscript)
   - [C](#c)
-  - [C++](#c++)
-  - [C#](#c#)
+  - [C++](#c-1)
+  - [C#](#c-2)
   - [GDscript](#gdscript)
   - [Golang](#golang)
   - [Haskel](#haskel)
@@ -99,6 +99,7 @@
 - [Twitch CLI](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [gempir/go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Go IRC client for twitch.tv.
 - [nicklaw5/helix](https://github.com/nicklaw5/helix) - A Twitch Helix API client written in Go.
+- [tracy-and-matt/go-twitch-pubsub](https://github.com/tracy-and-matt/go-twitch-pubsub) - Go library for Twitch PubSub.
 
 ### Haskel
 - [tsoding/HyperNerd](https://github.com/tsoding/HyperNerd) - Total Surveillance Automatic Ban Machine for Twitch and Discord.
@@ -175,6 +176,7 @@
 
 ## Extension Starter Kits
 - [Breci/twitch-ext-vuex](https://github.com/Breci/twitch-ext-vuex) - An abstraction of the Twitch Extension helper for VueX.
+- [tracy-and-matt/twitch-extension-vue-starter](https://github.com/tracy-and-matt/twitch-extension-vue-starter) - Twitch Extension Vue Starter Kit.
 
 ## Guides and Tutorials
 - [Get started with Twitch Extensions](https://dev.twitch.tv/docs/extensions)
